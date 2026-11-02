@@ -924,12 +924,12 @@
     },
     {
       "source": "/events/2556548",
-      "destination": "/events/ev_2f495e44bf86",
+      "destination": "/venues/r-lounge",
       "permanent": true
     },
     {
       "source": "/en/events/2556548",
-      "destination": "/en/events/ev_2f495e44bf86",
+      "destination": "/en/venues/r-lounge",
       "permanent": true
     },
     {
@@ -1014,12 +1014,12 @@
     },
     {
       "source": "/events/2560966",
-      "destination": "/events/ev_c0ec01e5a649",
+      "destination": "/venues/vent",
       "permanent": true
     },
     {
       "source": "/en/events/2560966",
-      "destination": "/en/events/ev_c0ec01e5a649",
+      "destination": "/en/venues/vent",
       "permanent": true
     },
     {
