@@ -44,22 +44,22 @@
     },
     {
       "source": "/events/20261030-o-d-o-presents-eldon-jeebanoff-in-tokyo",
-      "destination": "/events/ev_0ecde30b57c1",
+      "destination": "/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/en/events/20261030-o-d-o-presents-eldon-jeebanoff-in-tokyo",
-      "destination": "/en/events/ev_0ecde30b57c1",
+      "destination": "/en/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/events/20261031-photoism-kevin-moonfree-childrelease-party-in-tokyo",
-      "destination": "/events/ev_8553ad06f14a",
+      "destination": "/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/en/events/20261031-photoism-kevin-moonfree-childrelease-party-in-tokyo",
-      "destination": "/en/events/ev_8553ad06f14a",
+      "destination": "/en/venues/circus-tokyo",
       "permanent": true
     },
     {
@@ -94,22 +94,22 @@
     },
     {
       "source": "/events/20261128-silva-bumpa",
-      "destination": "/venues/circus-tokyo",
+      "destination": "/events/ev_0451dfbabe8c",
       "permanent": true
     },
     {
       "source": "/en/events/20261128-silva-bumpa",
-      "destination": "/en/venues/circus-tokyo",
+      "destination": "/en/events/ev_0451dfbabe8c",
       "permanent": true
     },
     {
       "source": "/events/20261201-aya-vmo-japan-tour-2026",
-      "destination": "/venues/circus-tokyo",
+      "destination": "/events/ev_86048c93b2ed",
       "permanent": true
     },
     {
       "source": "/en/events/20261201-aya-vmo-japan-tour-2026",
-      "destination": "/en/venues/circus-tokyo",
+      "destination": "/en/events/ev_86048c93b2ed",
       "permanent": true
     },
     {
@@ -174,12 +174,12 @@
     },
     {
       "source": "/events/2490363",
-      "destination": "/events/ev_eb4670a6153d",
+      "destination": "/venues/saloon",
       "permanent": true
     },
     {
       "source": "/en/events/2490363",
-      "destination": "/en/events/ev_eb4670a6153d",
+      "destination": "/en/venues/saloon",
       "permanent": true
     },
     {
@@ -254,12 +254,12 @@
     },
     {
       "source": "/events/2522856",
-      "destination": "/events/ev_aa28c3e6eff2",
+      "destination": "/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/en/events/2522856",
-      "destination": "/en/events/ev_aa28c3e6eff2",
+      "destination": "/en/venues/circus-tokyo",
       "permanent": true
     },
     {
@@ -324,12 +324,12 @@
     },
     {
       "source": "/events/2529265",
-      "destination": "/events/ev_ac36c6e50243",
+      "destination": "/venues/z-maruyama",
       "permanent": true
     },
     {
       "source": "/en/events/2529265",
-      "destination": "/en/events/ev_ac36c6e50243",
+      "destination": "/en/venues/z-maruyama",
       "permanent": true
     },
     {
@@ -364,12 +364,12 @@
     },
     {
       "source": "/events/2531582",
-      "destination": "/events/ev_f4b1dd2c0666",
+      "destination": "/venues/vent",
       "permanent": true
     },
     {
       "source": "/en/events/2531582",
-      "destination": "/en/events/ev_f4b1dd2c0666",
+      "destination": "/en/venues/vent",
       "permanent": true
     },
     {
@@ -474,12 +474,12 @@
     },
     {
       "source": "/events/2538313",
-      "destination": "/events/ev_aaba167f17bd",
+      "destination": "/venues/koenji-cave",
       "permanent": true
     },
     {
       "source": "/en/events/2538313",
-      "destination": "/en/events/ev_aaba167f17bd",
+      "destination": "/en/venues/koenji-cave",
       "permanent": true
     },
     {
@@ -504,12 +504,12 @@
     },
     {
       "source": "/events/2540037",
-      "destination": "/events/ev_6cd8cc9d7089",
+      "destination": "/venues/womb",
       "permanent": true
     },
     {
       "source": "/en/events/2540037",
-      "destination": "/en/events/ev_6cd8cc9d7089",
+      "destination": "/en/venues/womb",
       "permanent": true
     },
     {
@@ -564,12 +564,12 @@
     },
     {
       "source": "/events/2544780",
-      "destination": "/events/ev_5f18257e756a",
+      "destination": "/venues/vent",
       "permanent": true
     },
     {
       "source": "/en/events/2544780",
-      "destination": "/en/events/ev_5f18257e756a",
+      "destination": "/en/venues/vent",
       "permanent": true
     },
     {
@@ -604,22 +604,22 @@
     },
     {
       "source": "/events/2545615",
-      "destination": "/events/ev_5c18286e66a5",
+      "destination": "/venues/zerotokyo",
       "permanent": true
     },
     {
       "source": "/en/events/2545615",
-      "destination": "/en/events/ev_5c18286e66a5",
+      "destination": "/en/venues/zerotokyo",
       "permanent": true
     },
     {
       "source": "/events/2545619",
-      "destination": "/events/ev_6d5d531ee021",
+      "destination": "/venues/zerotokyo",
       "permanent": true
     },
     {
       "source": "/en/events/2545619",
-      "destination": "/en/events/ev_6d5d531ee021",
+      "destination": "/en/venues/zerotokyo",
       "permanent": true
     },
     {
@@ -684,12 +684,12 @@
     },
     {
       "source": "/events/2547616",
-      "destination": "/events/ev_26d10497ebf8",
+      "destination": "/venues/z-maruyama",
       "permanent": true
     },
     {
       "source": "/en/events/2547616",
-      "destination": "/en/events/ev_26d10497ebf8",
+      "destination": "/en/venues/z-maruyama",
       "permanent": true
     },
     {
@@ -724,12 +724,12 @@
     },
     {
       "source": "/events/2550017",
-      "destination": "/events/ev_64459e1362dd",
+      "destination": "/venues/z-maruyama",
       "permanent": true
     },
     {
       "source": "/en/events/2550017",
-      "destination": "/en/events/ev_64459e1362dd",
+      "destination": "/en/venues/z-maruyama",
       "permanent": true
     },
     {
@@ -794,12 +794,12 @@
     },
     {
       "source": "/events/2552447",
-      "destination": "/events/ev_31bebe3e5663",
+      "destination": "/venues/clubasia",
       "permanent": true
     },
     {
       "source": "/en/events/2552447",
-      "destination": "/en/events/ev_31bebe3e5663",
+      "destination": "/en/venues/clubasia",
       "permanent": true
     },
     {
@@ -814,12 +814,12 @@
     },
     {
       "source": "/events/2553612",
-      "destination": "/events/ev_fe87ebfc94ef",
+      "destination": "/venues/womb",
       "permanent": true
     },
     {
       "source": "/en/events/2553612",
-      "destination": "/en/events/ev_fe87ebfc94ef",
+      "destination": "/en/venues/womb",
       "permanent": true
     },
     {
@@ -1004,12 +1004,12 @@
     },
     {
       "source": "/events/2560926",
-      "destination": "/events/ev_7c85b76af2d8",
+      "destination": "/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/en/events/2560926",
-      "destination": "/en/events/ev_7c85b76af2d8",
+      "destination": "/en/venues/circus-tokyo",
       "permanent": true
     },
     {

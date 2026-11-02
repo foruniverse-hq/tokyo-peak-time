@@ -318,8 +318,16 @@
       // tonight has none: point at the next night that does
       tonight.hidden = true;
       tonight.textContent = "";
-      if (total) {
-        var todayEl = F.querySelector('.day[data-day="' + D.today + '"]');
+      var todayEl = F.querySelector('.day[data-day="' + D.today + '"]');
+      // 今夜の段が無い、または台帳の B だけの段(S・A が1件も無い)
+      var todaySA = todayEl && todayEl.querySelector('.ev[data-tier="S"], .ev[data-tier="A"]');
+      if (!todaySA && D.tonight && D.tonight.n) {
+        // 今夜に S・A が無くても、今夜のページには B がある: そちらへ案内する(設計書_今夜のページ)
+        var all = el("a", "", fmt(T.tonight_all_n, { n: D.tonight.n }));
+        all.href = D.tonight.url;
+        tonight.appendChild(all);
+        tonight.hidden = false;
+      } else if (total) {
         if (!todayEl || todayEl.hidden) {
           var next = dayEls.filter(function (d) { return !d.hidden && d.getAttribute("data-day") > D.today; })[0];
           if (next) {
@@ -542,5 +550,15 @@
       new IntersectionObserver(function (en) { offscreen = !en[0].isIntersecting; if (offscreen) halt(); else schedule(); }).observe(cv);
     }
     if (rmq && rmq.addEventListener) rmq.addEventListener("change", function () { halt(); resize(); schedule(); });
+  }
+
+  // ---- 今夜のページ: 朝の更新が止まって前の夜のページが残っているときだけ注記を出す(中身は差し替えない)。
+  // 境目の時刻はサーバーが UNIX 時刻で埋める(端末のタイムゾーンに頼らない)。タブに戻ったときも判定し直す
+  var stale = doc.querySelector("[data-stale-after]");
+  if (stale) {
+    var staleCheck = function () { stale.hidden = !(Date.now() > Number(stale.getAttribute("data-stale-after"))); };
+    staleCheck();
+    window.addEventListener("pageshow", staleCheck);
+    doc.addEventListener("visibilitychange", function () { if (!doc.hidden) staleCheck(); });
   }
 })();
