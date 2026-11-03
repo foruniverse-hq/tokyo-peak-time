@@ -114,12 +114,12 @@
     },
     {
       "source": "/events/20261203-dvbbs-dj-set",
-      "destination": "/venues/v2-tokyo",
+      "destination": "/events/ev_a75260181cef",
       "permanent": true
     },
     {
       "source": "/en/events/20261203-dvbbs-dj-set",
-      "destination": "/en/venues/v2-tokyo",
+      "destination": "/en/events/ev_a75260181cef",
       "permanent": true
     },
     {
