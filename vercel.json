@@ -514,12 +514,12 @@
     },
     {
       "source": "/events/2541348",
-      "destination": "/events/ev_f57a2961e828",
+      "destination": "/venues/womb",
       "permanent": true
     },
     {
       "source": "/en/events/2541348",
-      "destination": "/en/events/ev_f57a2961e828",
+      "destination": "/en/venues/womb",
       "permanent": true
     },
     {
