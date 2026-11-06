@@ -344,12 +344,12 @@
     },
     {
       "source": "/events/2530055",
-      "destination": "/events/ev_5bd74ebf5325",
+      "destination": "/venues/womb",
       "permanent": true
     },
     {
       "source": "/en/events/2530055",
-      "destination": "/en/events/ev_5bd74ebf5325",
+      "destination": "/en/venues/womb",
       "permanent": true
     },
     {
@@ -574,12 +574,12 @@
     },
     {
       "source": "/events/2544852",
-      "destination": "/events/ev_45fdf7948920",
+      "destination": "/venues/vent",
       "permanent": true
     },
     {
       "source": "/en/events/2544852",
-      "destination": "/en/events/ev_45fdf7948920",
+      "destination": "/en/venues/vent",
       "permanent": true
     },
     {
@@ -834,12 +834,12 @@
     },
     {
       "source": "/events/2554218",
-      "destination": "/events/ev_7f7335083f44",
+      "destination": "/venues/clubasia",
       "permanent": true
     },
     {
       "source": "/en/events/2554218",
-      "destination": "/en/events/ev_7f7335083f44",
+      "destination": "/en/venues/clubasia",
       "permanent": true
     },
     {
@@ -914,12 +914,12 @@
     },
     {
       "source": "/events/2556022",
-      "destination": "/events/ev_ca87a46e7bbe",
+      "destination": "/venues/z-maruyama",
       "permanent": true
     },
     {
       "source": "/en/events/2556022",
-      "destination": "/en/events/ev_ca87a46e7bbe",
+      "destination": "/en/venues/z-maruyama",
       "permanent": true
     },
     {
