@@ -354,12 +354,12 @@
     },
     {
       "source": "/events/2530141",
-      "destination": "/events/ev_d9811d5a2a74",
+      "destination": "/venues/clubasia",
       "permanent": true
     },
     {
       "source": "/en/events/2530141",
-      "destination": "/en/events/ev_d9811d5a2a74",
+      "destination": "/en/venues/clubasia",
       "permanent": true
     },
     {
@@ -494,12 +494,12 @@
     },
     {
       "source": "/events/2539495",
-      "destination": "/events/ev_c752c607354b",
+      "destination": "/venues/vent",
       "permanent": true
     },
     {
       "source": "/en/events/2539495",
-      "destination": "/en/events/ev_c752c607354b",
+      "destination": "/en/venues/vent",
       "permanent": true
     },
     {
@@ -774,12 +774,12 @@
     },
     {
       "source": "/events/2552091",
-      "destination": "/events/ev_702af8e200fb",
+      "destination": "/venues/womb",
       "permanent": true
     },
     {
       "source": "/en/events/2552091",
-      "destination": "/en/events/ev_702af8e200fb",
+      "destination": "/en/venues/womb",
       "permanent": true
     },
     {
@@ -904,12 +904,12 @@
     },
     {
       "source": "/events/2555457",
-      "destination": "/events/ev_db961b38c558",
+      "destination": "/venues/midnight-east",
       "permanent": true
     },
     {
       "source": "/en/events/2555457",
-      "destination": "/en/events/ev_db961b38c558",
+      "destination": "/en/venues/midnight-east",
       "permanent": true
     },
     {
@@ -984,22 +984,22 @@
     },
     {
       "source": "/events/2559013",
-      "destination": "/events/ev_137f1b83ee5e",
+      "destination": "/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/en/events/2559013",
-      "destination": "/en/events/ev_137f1b83ee5e",
+      "destination": "/en/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/events/2560823",
-      "destination": "/events/ev_fd67cee8437d",
+      "destination": "/",
       "permanent": true
     },
     {
       "source": "/en/events/2560823",
-      "destination": "/en/events/ev_fd67cee8437d",
+      "destination": "/en",
       "permanent": true
     },
     {
