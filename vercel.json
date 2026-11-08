@@ -64,12 +64,12 @@
     },
     {
       "source": "/events/20261108-kingsman-tokyo-10th-anniversary-night",
-      "destination": "/events/ev_9b866648ef17",
+      "destination": "/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/en/events/20261108-kingsman-tokyo-10th-anniversary-night",
-      "destination": "/en/events/ev_9b866648ef17",
+      "destination": "/en/venues/circus-tokyo",
       "permanent": true
     },
     {
@@ -144,12 +144,12 @@
     },
     {
       "source": "/events/2376846",
-      "destination": "/events/ev_5a681cb8d0f9",
+      "destination": "/venues/oba-camp-village",
       "permanent": true
     },
     {
       "source": "/en/events/2376846",
-      "destination": "/en/events/ev_5a681cb8d0f9",
+      "destination": "/en/venues/oba-camp-village",
       "permanent": true
     },
     {
@@ -594,12 +594,12 @@
     },
     {
       "source": "/events/2545238",
-      "destination": "/events/ev_02a982899784",
+      "destination": "/venues/r-lounge",
       "permanent": true
     },
     {
       "source": "/en/events/2545238",
-      "destination": "/en/events/ev_02a982899784",
+      "destination": "/en/venues/r-lounge",
       "permanent": true
     },
     {
