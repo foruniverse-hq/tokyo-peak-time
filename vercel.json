@@ -124,12 +124,12 @@
     },
     {
       "source": "/events/20261212-ivy-lab-last-tour",
-      "destination": "/venues/circus-tokyo",
+      "destination": "/events/ev_72a9e83a3402",
       "permanent": true
     },
     {
       "source": "/en/events/20261212-ivy-lab-last-tour",
-      "destination": "/en/venues/circus-tokyo",
+      "destination": "/en/events/ev_72a9e83a3402",
       "permanent": true
     },
     {
@@ -284,12 +284,12 @@
     },
     {
       "source": "/events/2525848",
-      "destination": "/events/ev_0bb82d98afd9",
+      "destination": "/venues/womb",
       "permanent": true
     },
     {
       "source": "/en/events/2525848",
-      "destination": "/en/events/ev_0bb82d98afd9",
+      "destination": "/en/venues/womb",
       "permanent": true
     },
     {
@@ -584,12 +584,12 @@
     },
     {
       "source": "/events/2544889",
-      "destination": "/events/ev_4e5bc362256f",
+      "destination": "/venues/r-lounge",
       "permanent": true
     },
     {
       "source": "/en/events/2544889",
-      "destination": "/en/events/ev_4e5bc362256f",
+      "destination": "/en/venues/r-lounge",
       "permanent": true
     },
     {
@@ -654,12 +654,12 @@
     },
     {
       "source": "/events/2546992",
-      "destination": "/events/ev_c5ff6481aa0f",
+      "destination": "/venues/vent",
       "permanent": true
     },
     {
       "source": "/en/events/2546992",
-      "destination": "/en/events/ev_c5ff6481aa0f",
+      "destination": "/en/venues/vent",
       "permanent": true
     },
     {
@@ -844,12 +844,12 @@
     },
     {
       "source": "/events/2554222",
-      "destination": "/events/ev_337b6ba308d5",
+      "destination": "/venues/clubasia",
       "permanent": true
     },
     {
       "source": "/en/events/2554222",
-      "destination": "/en/events/ev_337b6ba308d5",
+      "destination": "/en/venues/clubasia",
       "permanent": true
     },
     {
@@ -944,12 +944,12 @@
     },
     {
       "source": "/events/2556646",
-      "destination": "/events/ev_86e812518473",
+      "destination": "/venues/midnight-east",
       "permanent": true
     },
     {
       "source": "/en/events/2556646",
-      "destination": "/en/events/ev_86e812518473",
+      "destination": "/en/venues/midnight-east",
       "permanent": true
     },
     {
@@ -1044,12 +1044,12 @@
     },
     {
       "source": "/events/2562891",
-      "destination": "/events/ev_52ee60cf1265",
+      "destination": "/venues/camelot",
       "permanent": true
     },
     {
       "source": "/en/events/2562891",
-      "destination": "/en/events/ev_52ee60cf1265",
+      "destination": "/en/venues/camelot",
       "permanent": true
     }
   ]
