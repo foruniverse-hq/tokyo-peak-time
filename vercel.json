@@ -424,12 +424,12 @@
     },
     {
       "source": "/events/2534014",
-      "destination": "/events/ev_0df0abf90e54",
+      "destination": "/venues/vent",
       "permanent": true
     },
     {
       "source": "/en/events/2534014",
-      "destination": "/en/events/ev_0df0abf90e54",
+      "destination": "/en/venues/vent",
       "permanent": true
     },
     {
