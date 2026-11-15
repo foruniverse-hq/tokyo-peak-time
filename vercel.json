@@ -74,12 +74,12 @@
     },
     {
       "source": "/events/20261115-beginning-presents-lyny-tokyo-show",
-      "destination": "/events/ev_4167791ea1f4",
+      "destination": "/venues/circus-tokyo",
       "permanent": true
     },
     {
       "source": "/en/events/20261115-beginning-presents-lyny-tokyo-show",
-      "destination": "/en/events/ev_4167791ea1f4",
+      "destination": "/en/venues/circus-tokyo",
       "permanent": true
     },
     {
@@ -464,12 +464,12 @@
     },
     {
       "source": "/events/2537808",
-      "destination": "/events/ev_7225ac2fd9a2",
+      "destination": "/venues/z-maruyama",
       "permanent": true
     },
     {
       "source": "/en/events/2537808",
-      "destination": "/en/events/ev_7225ac2fd9a2",
+      "destination": "/en/venues/z-maruyama",
       "permanent": true
     },
     {
