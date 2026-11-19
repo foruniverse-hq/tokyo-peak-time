@@ -134,12 +134,12 @@
     },
     {
       "source": "/events/20261219-neuro-hack-vol-3-1st-anniversary",
-      "destination": "/venues/circus-tokyo",
+      "destination": "/events/ev_3c43f64539cf",
       "permanent": true
     },
     {
       "source": "/en/events/20261219-neuro-hack-vol-3-1st-anniversary",
-      "destination": "/en/venues/circus-tokyo",
+      "destination": "/en/events/ev_3c43f64539cf",
       "permanent": true
     },
     {
